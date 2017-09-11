@@ -10,7 +10,9 @@ Platform assembly: D:\Git_Stuff\CPs_Test\Cremisi_Portals\beta_Data\Managed\Unity
 Loading D:\Git_Stuff\CPs_Test\Cremisi_Portals\beta_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: D:\Git_Stuff\CPs_Test\Cremisi_Portals\beta_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading D:\Git_Stuff\CPs_Test\Cremisi_Portals\beta_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.058 seconds
+- Completed reload, in  0.050 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+Platform assembly: D:\Git_Stuff\CPs_Test\Cremisi_Portals\beta_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Git_Stuff\CPs_Test\Cremisi_Portals\beta_Data\Managed\System.dll (this message is harmless)
